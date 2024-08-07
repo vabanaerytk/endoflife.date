@@ -32,8 +32,8 @@ releases:
 -   releaseCycle: "3007"
     lts: false # not yet on https://docs.saltproject.io/salt/install-guide/en/latest/topics/salt-version-support-lifecycle.html
     releaseDate: 2024-03-06
-    eoas: false # not yet on https://docs.saltproject.io/salt/install-guide/en/latest/topics/salt-version-support-lifecycle.html
-    eol: false # not yet on https://docs.saltproject.io/salt/install-guide/en/latest/topics/salt-version-support-lifecycle.html
+    eoas: 2024-10-18 # not yet on https://docs.saltproject.io/salt/install-guide/en/latest/topics/salt-version-support-lifecycle.html
+    eol: 2024-10-18 # not yet on https://docs.saltproject.io/salt/install-guide/en/latest/topics/salt-version-support-lifecycle.html
     latest: "3007.1"
     latestReleaseDate: 2024-05-22
     link: https://docs.saltproject.io/en/latest/topics/releases/__LATEST__.html
@@ -41,8 +41,8 @@ releases:
 -   releaseCycle: "3006"
     lts: true
     releaseDate: 2023-04-18
-    eoas: 2024-04-18
-    eol: 2025-04-18
+    eoas: 2024-10-18
+    eol: 2025-10-18
     latest: "3006.9"
     latestReleaseDate: 2024-07-30
     link: https://docs.saltproject.io/en/latest/topics/releases/__LATEST__.html
